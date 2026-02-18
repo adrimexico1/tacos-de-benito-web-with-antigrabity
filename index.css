@@ -75,12 +75,14 @@ header.scrolled {
     align-items: center;
     gap: 15px;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .logo img {
     height: 45px;
     width: auto;
     filter: drop-shadow(0 0 10px rgba(255, 111, 0, 0.3));
+    clip-path: circle(50%);
 }
 
 .logo span {
