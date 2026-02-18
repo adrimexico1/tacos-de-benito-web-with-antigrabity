@@ -20,4 +20,4 @@ Bienvenidos al repositorio oficial de **Tacos de Benito**, la taquería con más
 > *Visualiza la tradición y el sabor en cada pixel.*
 
 ---
-Desarrollado con ❤️ para **Tacos de Benito** | 2024
+Desarrollado con ❤️ para **Tacos de Benito** | 2026

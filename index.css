@@ -307,16 +307,25 @@ nav a:hover {
 
 /* Responsive */
 @media (max-width: 768px) {
+    .hero {
+        background-attachment: scroll;
+        height: 60vh;
+    }
+
+    .history-section {
+        background-attachment: scroll;
+        padding: 80px 5%;
+    }
+
     .hero-content h1 {
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
 
     nav {
         display: none;
     }
 
-    .history-section {
-        flex-direction: column;
-        text-align: center;
+    .section-title {
+        font-size: 2.5rem;
     }
 }
